@@ -8,13 +8,16 @@ JAVA 15
 
 # HOW TO RUN:
 Open read me file. 
+
 On Page 4: follow the following step to run the application.**
 **Note:** Just before running the file make sure that the .jar file is in Fetch Rewards/demo/target directory.
 
 # API
 There are three API Calls
 -> Process Transaction
+
 -> With Drawal
+
 -> Balance
 
 **Note:** API calls can be called through POSTMAN and through curl commands. ReadMe.pdf also constains curl commands too!.
