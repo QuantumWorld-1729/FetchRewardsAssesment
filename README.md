@@ -9,7 +9,8 @@ JAVA 15
 # HOW TO RUN:
 Open read me file. 
 
-On Page 4: follow the following step to run the application.**
+On Page 4: follow the following step to run the application.
+
 **Note:** Just before running the file make sure that the .jar file is in Fetch Rewards/demo/target directory.
 
 # API
